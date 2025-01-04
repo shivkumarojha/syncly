@@ -1,0 +1,11 @@
+{
+  "name": "syncly-backend",
+  "version": "1.0.0",
+  "description": "Backend for syncly: collabaration note app",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "author": "shiv kumar ojha",
+  "license": "ISC"
+}
